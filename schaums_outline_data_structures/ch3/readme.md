@@ -1,1 +1,1 @@
-# Ch. 3 Solutions
+# Ch. 3 Code and Solutions
